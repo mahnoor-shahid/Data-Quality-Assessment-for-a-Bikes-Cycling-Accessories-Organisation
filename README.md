@@ -23,6 +23,7 @@ This project uses **Jupyter Notebook** to perform the preliminary data quality a
  
  - A .ipynb file named "Data Quality Assessment for a Medium Size Bikes & Cycling Accessories Organization"
  - Dataset of .xlsx format named "Raw_Data_provided_by_Oraganization.xlsx"
+- A .docx file containing "Summary Report"
  
  # Created By
  **Mahnoor Shahid** - Initial work
